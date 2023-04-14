@@ -1,5 +1,6 @@
 # Assignment-5
 # Bhargavi Chukkapalli - 700743393
+# video link : https://drive.google.com/file/d/1T1wu0ivRyW4bB-V_4jflc8-RNvUXW_WB/view?usp=share_link
 import the libraries 
 import numpy as np
 import matplotlib.pyplot as plt
